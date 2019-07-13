@@ -1,0 +1,145 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+
+.top,.middle,.bottom {
+    height: 100vh;
+   
+    
+}
+
+
+
+
+    
+
+h1{
+    
+  
+/*
+    margin-top: 200px;
+    margin-left: 370px;
+*/
+    color:darkblue;
+  
+   
+    
+}
+
+
+
+h1{
+    
+    color: darkblue;
+      
+/*
+    font-size: 260px;
+    font-weight: 60;
+    margin-top: 200px;
+    margin-left: 370px;
+*/
+
+
+    
+}
+
+
+.h-mid{
+    
+    
+    color: white;
+   text-align: center;
+/*
+    font-size: 450px;
+    font-weight: 50;
+*/
+ 
+      
+   
+  
+    
+ 
+}
+
+
+svg{
+    
+    
+/*
+  position: fixed;
+    top: 95%;
+    left: 50%;
+*/
+}
+
+p{
+    
+   
+    
+/*
+    font-size: 50px;
+    color: white;
+    position: fixed;
+     top: 87%;
+    left: 48%;
+*/
+   
+}
+
+
+
+
+
+
+h2{
+    color: white;
+/*    font-size: 100px;*/
+}
+
+.arrows{
+    
+    color: white;
+}
+
+.icepeak1{
+    color: darkblue;
+    
+ 
+}
+
+.icepeak2{
+    color: darkblue;
+    margin-top:20px;
+ 
+}
+
+.icepeak3{
+    margin-top:20px;
+    color: darkblue;
+ 
+}
+
+.icepeak4{
+    margin-top:20px;
+    color: darkblue;
+ 
+}
+
+.bot-right, .bot-mid, .bot-left{
+    color: white;
+}
+
+.num{
+    font-weight: 1000; 
+    font-size:30px
+}
