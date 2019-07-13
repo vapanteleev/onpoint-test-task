@@ -143,3 +143,24 @@ h2{
     font-weight: 1000; 
     font-size:30px
 }
+
+.three {
+    position: absolute;
+    top: 320px;
+    right: 382px;
+}
+
+.seven {
+    position: absolute;
+    top: 192px;
+    right: 100px;
+}
+
+.bottom{
+    position: relative;
+    background-image: url("./Group%201.png");
+    -webkit-background-size: contain;
+    background-size: 65%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
