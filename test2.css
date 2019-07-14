@@ -156,6 +156,75 @@ h2{
     right: 100px;
 }
 
+
+.eight{
+    position: absolute;
+    top: 160px;
+    right: 850px;
+}
+
+.nine{
+    
+    position: absolute;
+    top: 305px;
+    right: 850px;
+}
+
+.ten{
+    position: absolute;
+    top: 497px;
+    right: 850px;
+}
+
+.eleven{
+    
+    position: absolute;
+    top: 579px;
+    right: 575px;
+    
+}
+
+.six{
+    
+    position: absolute;
+    top: 380px;
+    right: 150px;
+}
+
+
+
+.five{
+    
+    
+    position: absolute;
+    top: 490px;
+    right: 140px;
+}
+
+.four{
+    position: absolute;
+    top: 600px;
+    right: 80px;
+    
+}
+
+.two{
+    
+    position: absolute;
+    top: 320px;
+    right: 551px;
+}
+
+.gipergli{
+    
+        position: absolute;
+    top: 501px;
+    right: 486px;
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+
 .bottom{
     position: relative;
     background-image: url("./Group%201.png");
@@ -163,4 +232,13 @@ h2{
     background-size: 65%;
     background-repeat: no-repeat;
     background-position: center;
+}
+
+
+.insulin{
+    
+    position: absolute;
+    top: 320px;
+    right: 551px;
+    
 }
